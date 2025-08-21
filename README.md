@@ -9,7 +9,7 @@ O modelo foi construído para representar um sistema de e-commerce, contemplando
 
 ![Diagrama](DIOeer.png)
 
-## 🚀 Tecnologias Utilizadas
+## 🚀 Tecnologias Utilizadas:
 - MySQL Workbench
 - MySQL
 
